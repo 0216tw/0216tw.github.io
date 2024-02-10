@@ -43,13 +43,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: -0piaA7Temx44_pQ3K6pHtkpVE4n-0_L4gTecA-m-Mg
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-JY0YS6ELJY
 
 goatcounter:
   id: # fill in your Goatcounter ID
