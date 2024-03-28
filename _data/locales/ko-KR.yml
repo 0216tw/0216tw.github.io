@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: 홈
   categories: IT지식창고
-  simple-is-the-best: simple-is-the-best
+  tags: 태그목록
 
 # the text displayed in the search bar & search results
 search:

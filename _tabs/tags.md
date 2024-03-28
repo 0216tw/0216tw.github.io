@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+layout: tags
 icon:
 order: 5
 ---
