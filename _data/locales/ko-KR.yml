@@ -11,11 +11,8 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: 홈
-  categories: 지식창고👨‍💻
-  #  tags: 태그
-  archives: 아카이브
-  about: ABOUT ME
-  portfolio: 포트폴리오
+  categories: IT지식창고
+  simple-is-the-best: simple-is-the-best
 
 # the text displayed in the search bar & search results
 search:
@@ -60,7 +57,7 @@ post:
   pageview_measure: 조회
   read_time:
     unit: 분
-    prompt: 읽는 시간
+    prompt: 정도의 분량이에요
   relate_posts: 관련된 글
   share: 공유하기
   button:
